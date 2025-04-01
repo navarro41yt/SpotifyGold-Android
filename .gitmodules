@@ -1,0 +1,3 @@
+[submodule "Translations"]
+    path = Translations
+    url = https://github.com/navarro41yt/Android-Strings-Translator.git
